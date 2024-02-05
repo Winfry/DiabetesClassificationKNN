@@ -1,14 +1,6 @@
 # DIABETES PREDICTION : cLASSIFICATION,NEURAL NETWORK AND MFLOW
 
-I used a Diabetes dataset acquired from Kaggle.The main things I did are: I created  a prediction model using KNN, Created a Neural Network using Scikit-Learn and deployed the model using MLflow and Streamlit for prediction .
+Diabetes is among one of the most common and widespread diseases in the world at present. Currently around 10.5% of global population suffers from Diabetes Mellitus (Type 2). Recently it has been observed that this disease is also rapidly growing in adolescents and early age adults. Diabetes can be genetic too which means that a person has a high risk of developing diabetes if it runs in the family history. It is a lifestyle disease and can can create severe consequences if not detected early and treated properly. Diabetes has a direct impact on functioning of heart and kidneys. Such prolonged effects can lead to cardiovascular diseases, blood pressure problems and failure of kidneys. In 2020, according to the International Diabetes Federation (IDF), 463 million people have diabetes in the world and 88 million people in the Southeast Asia region. Of this 88 million people, 77 million belong to India. The prevalence of diabetes in the population is 8.9%, according to the IDF. Thus this issue is an alarming one. One of the reasons is also that many people go untested or do not properly take a treatment for this problem. This model using only some primary features, tries to detect diabetes or chances of diabetes.
 
-# KNN CLASSIFICATION:
-
-
-
-
-# NEURAL NETWORK
-
-
-
-# MFflow
+Data Source
+For this model we have used the data from Pima Indians Diabetes Database. Link : https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
